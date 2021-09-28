@@ -1,0 +1,52 @@
+{
+  "personas": [
+    {
+      "nombre": "Jose",
+      "kilometros": "0"
+    },
+    {
+      "nombre": "Ivan",
+      "kilometros": "0"
+    },
+    {
+      "nombre": "David",
+      "kilometros": "0"
+    },
+    {
+      "nombre": "Aleix",
+      "kilometros": "0"
+    },
+    {
+      "nombre": "Arnau",
+      "kilometros": "0"
+    },
+    {
+      "nombre": "Eloy",
+      "kilometros": "0"
+    },
+    {
+      "nombre": "Genis",
+      "kilometros": "0"
+    },
+    {
+      "nombre": "Marc",
+      "kilometros": "0"
+    },
+    {
+      "nombre": "Jordi",
+      "kilometros": "0"
+    },
+    {
+      "nombre": "Luis",
+      "kilometros": "0"
+    },
+    {
+      "nombre": "Pau",
+      "kilometros": "0"
+    },
+    {
+      "nombre": "Robin",
+      "kilometros": "0"
+    }
+  ]
+}
