@@ -26,19 +26,11 @@
     },
     {
       "nombre": "Marc",
-      "kilometros": "155"
-    },
-    {
-      "nombre": "Luis",
-      "kilometros": "225"
+      "kilometros": "205"
     },
     {
       "nombre": "Pau",
       "kilometros": "120"
-    },
-    {
-      "nombre": "Robin",
-      "kilometros": "130"
     }
   ]
 }
