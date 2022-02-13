@@ -2,11 +2,11 @@
   "personas": [
     {
       "nombre": "Jose",
-      "kilometros": "305"
+      "kilometros": "365"
     },
     {
       "nombre": "Ivan",
-      "kilometros": "145"
+      "kilometros": "205"
     },
     {
       "nombre": "David",
@@ -14,7 +14,7 @@
     },
     {
       "nombre": "Aleix",
-      "kilometros": "55"
+      "kilometros": "115"
     },
     {
       "nombre": "Arnau",
@@ -30,7 +30,7 @@
     },
     {
       "nombre": "Pau",
-      "kilometros": "120"
+      "kilometros": "180"
     }
   ]
 }
