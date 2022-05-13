@@ -2,7 +2,7 @@
   "personas": [
     {
       "nombre": "Jose",
-      "kilometros": "365"
+      "kilometros": "430"
     },
     {
       "nombre": "Ivan",
@@ -26,7 +26,7 @@
     },
     {
       "nombre": "Pau",
-      "kilometros": "180"
+      "kilometros": "245"
     }
   ]
 }
